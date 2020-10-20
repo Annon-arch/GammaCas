@@ -8,7 +8,7 @@ Directory Structure:
    * tweetSeqTest_news_.pkl
    * tweetSeqTrain_news_.pkl
 
-   The other four files are present here inside Data-GammaCas-part2: https://drive.google.com/drive/folders/1syrMVFhnXxn6wzMOZ901DPy52S7xAC1m?usp=sharing </br>
+   The other four files are present here inside Data-GammaCas-part2/: https://drive.google.com/drive/folders/1syrMVFhnXxn6wzMOZ901DPy52S7xAC1m?usp=sharing </br>
    * NewDataTrain_news.csv
    * newsTrainSeq.pkl
    * newsTestSeq.pkl
