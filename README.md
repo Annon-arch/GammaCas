@@ -1,6 +1,6 @@
 # GammaCas
 
-Directory Structure:
+### Directory Structure:
 
 1. Code/: contains GammaCasModel.py, implementation for GammaCas
 2. Data-GammaCas/: contains 3 .csv, .pkl data files used by GammaCasModel.py </br>
@@ -13,3 +13,11 @@ Directory Structure:
    * newsTrainSeq.pkl
    * newsTestSeq.pkl
    * tweetNewsVocab_word2vec.pkl
+
+### Baselines Used:
+
+1. TiDeH: https://github.com/NII-Kobayashi/TiDeH
+2. SEISMIC: https://cran.r-project.org/web/packages/seismic/index.html
+3. DeepHawkes: https://github.com/CaoQi92/DeepHawkes
+4. DeepCas: https://github.com/chengli-um/DeepCas
+5. ChatterNet: https://github.com/LCS2-IIITD/ChatterNet
