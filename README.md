@@ -13,6 +13,7 @@
    * newsTrainSeq.pkl
    * newsTestSeq.pkl
    * tweetNewsVocab_word2vec.pkl
+3. AblationVariants/: contains three ablation variants of GammaCas
 
 ### Baselines Used:
 
